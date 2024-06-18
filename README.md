@@ -2,6 +2,8 @@
 
 ResumeMatch is a web application that analyzes resumes against job descriptions to provide an ATS (Applicant Tracking System) score. This score indicates how well the resume matches the job description, helping job seekers improve their resumes to better fit specific job postings.
 
+![image](/static/main.png)
+
 ## Features
 
 - Upload resumes in PDF or DOCX format.
